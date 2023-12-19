@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+.h3{
+    font-weight: 100;
+}
+img{
+    width: 97%;
+}
+.r1{
+    display: flex;
+    justify-content: space-around;
+}
+.q1{
+    width: 22%;
+}
+.q2{
+ width: 22%;   
+}
+.q3{
+    width: 22%;
+}
+.q4{
+    width: 22%;
+}
+.ho{
+    width: 100%;
+    background-color: rgb(243, 237, 237);
+}
+.c1{
+    text-align: center;
+}
+.c1:hover{
+    background-color:rgb(221, 205, 205) ;
+}
